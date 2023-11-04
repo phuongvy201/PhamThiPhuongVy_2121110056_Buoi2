@@ -1,0 +1,7 @@
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\bin\Debug\Bai02_1.exe.config
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\bin\Debug\Bai02_1.exe
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\bin\Debug\Bai02_1.pdb
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\obj\Debug\Bai02_1.csproj.AssemblyReference.cache
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\obj\Debug\Bai02_1.csproj.CoreCompileInputs.cache
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\obj\Debug\Bai02_1.exe
+D:\PhamThiPhuongVy_2121110056_C#\Bai02_1\obj\Debug\Bai02_1.pdb
